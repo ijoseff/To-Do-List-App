@@ -5,6 +5,7 @@
  - Open command prompt
  - Type "pip install Flask"
  - Type "Python app.py"
+ - Open app in local host
 
 **Demo:**
 
