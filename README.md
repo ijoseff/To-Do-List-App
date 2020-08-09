@@ -9,12 +9,18 @@
 
 **Demo:**
 
-<img src="https://github.com/ijoseff/To-Do-List-App/blob/master/ReadMe%20Photos/demo.gif?raw=true" alt="App Demo">
+<img src="https://github.com/ijoseff/To-Do-List-App/blob/master/ReadMe%20Photos/demo.gif?raw=true" alt="App Demo" width = "800" height = "400">
 
-<img src="https://github.com/ijoseff/To-Do-List-App/blob/master/ReadMe%20Photos/home.png?raw=true" alt="App Demo">
+**Photos:**
 
-<img src="https://github.com/ijoseff/To-Do-List-App/blob/master/ReadMe%20Photos/add.png?raw=true" alt="App Demo">
+ - Home:
+   <img src="https://github.com/ijoseff/To-Do-List-App/blob/master/ReadMe%20Photos/home.png?raw=true" alt="App Demo">
 
-<img src="https://github.com/ijoseff/To-Do-List-App/blob/master/ReadMe%20Photos/delete.png?raw=true" alt="App Demo">
+ - Add Task
+  <img src="https://github.com/ijoseff/To-Do-List-App/blob/master/ReadMe%20Photos/add.png?raw=true" alt="App Demo">
 
-<img src="https://github.com/ijoseff/To-Do-List-App/blob/master/ReadMe%20Photos/final.png?raw=true" alt="App Demo">
+ - Delete Task
+   <img src="https://github.com/ijoseff/To-Do-List-App/blob/master/ReadMe%20Photos/delete.png?raw=true" alt="App Demo">
+
+ - Updated Task
+   <img src="https://github.com/ijoseff/To-Do-List-App/blob/master/ReadMe%20Photos/final.png?raw=true" alt="App Demo">
